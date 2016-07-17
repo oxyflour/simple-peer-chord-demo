@@ -1,4 +1,4 @@
-var Chord = require('../simple-peer-chord'),
+var Chord = require('simple-peer-chord'),
 	events = require('events'),
 	util = require('util'),
 

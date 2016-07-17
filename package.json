@@ -10,5 +10,6 @@
   "author": "oxyflour <oxyflour@hotmail.com>",
   "license": "ISC",
   "dependencies": {
+    "simple-peer-chord": "0.0.1"
   }
 }
